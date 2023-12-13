@@ -16,8 +16,8 @@
     </dependency>
   </dependencies>
   <properties>
-    <sonar.host.url>http://44.210.146.39:9000/</sonar.host.url>
-    <sonar.login>5ce1d166622d3cd1f68037f02ba235e93ccac5d8</sonar.login>
+	<sonar.host.url>http://52.87.226.140:9000//</sonar.host.url>
+	<sonar.login>face81f6c495fb4551ef46218c85185faf1d7d2a</sonar.login>
   </properties>
   <build>
     <finalName>01-maven-web-app</finalName>
